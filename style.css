@@ -1,0 +1,176 @@
+.nav-sec{
+    display: flex;
+    justify-content: space-between;
+}
+.first-nav{
+    display: flex;
+    justify-content: space-between;
+}
+#second-section{
+    background-image: url(./Medilab/Medilab/assets/img/hero-bg.jpg);
+    height:450px;
+    margin-bottom: -7vw;
+}
+
+
+.row{
+    gap:30px;
+
+}
+.card2{
+    height: 250px;
+    width: 150px;
+}
+.btn-2{
+    background-color: rgb(6, 154, 212);
+    border: none;
+    width: 10vw;
+}
+.parents{
+    display: flex;
+    justify-content: space-between;
+    gap:40px;
+    
+}
+.third{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.four-sec{
+    background-color: rgb(207 250 254);
+    margin-bottom: 60px;
+}
+.fourth{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.p-div{
+    background-color: white;
+    text-align: center;
+    height: 250px;
+    width: 250px;
+}
+
+.servi{
+    text-align: center;
+    font-size: 30px;
+}
+
+.card-hover:hover{
+background: blue;
+color: white;
+}
+/*appoinment section--------------------*/
+.appoinment{
+    padding-left: 70px;
+    background-color: rgb(207 250 254) ;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.input{
+    width:70%;
+    background-color: white;
+    height: 40px;
+    gap:40px;
+}
+.Appoin{
+    text-align: center;
+    font-size: 30px;
+}
+.form-div{
+    gap:70px;
+}
+.btn-2{
+    background-color: blue;
+    color: white;
+    width: 10vw;
+    border-radius: 3px;
+}
+
+/*department section---------------*/
+.depar{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.slider-div{
+    display: flex;
+}
+ul{
+    gap: 30px;
+}
+ul li{
+    list-style: none;
+    font-weight: 600;
+}
+.caro{
+    display: flex;
+}
+.caro-para{
+    padding-left:130px;
+    height: 30px;
+    width: 500px;
+    margin-right: 50px;
+}
+/*card section----------------*/
+.cards{
+    display: flex;
+}
+
+.doc{
+    text-align: center;
+    padding-bottom: 20px;
+}
+/*frequent section--------------*/
+.frequent{
+    padding-left: 200px;
+    margin-top: 60px;
+}
+.accordion-item:hovar{
+    background-color: white;
+    color: lightskyblue;
+}
+
+.freq{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.imgs{
+    height: 370px;
+    width: 370px;
+}
+.contact{
+    margin-left: 80px;
+}
+
+/*medilav section------------------*/
+.medilav{
+    margin-top: 40px;
+ 
+}
+.last-end{
+    margin-left: 70px;
+}
+.clr{
+    gap:4px;
+    color:lightslategray;
+}
+/*end section--------------------*/
+.end-sec{
+    display: flex;
+    justify-content: space-between;
+}
+.copy{
+    margin-left: 60px;
+}
+.icon-set{
+    margin-right: 70px;
+    font-size: 30px;
+}
+.frm{
+    width: 100%;
+    margin-left: 10px;
+}
+.marg{
+    margin-top: 20px;
+}
